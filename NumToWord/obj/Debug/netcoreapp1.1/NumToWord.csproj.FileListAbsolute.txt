@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/NumToWord.Solution/NumToWord/bin/Debug/netcoreapp1.1/NumToWord.deps.json
+/Users/Guest/Desktop/NumToWord.Solution/NumToWord/obj/Debug/netcoreapp1.1/NumToWord.AssemblyInfo.cs
+/Users/Guest/Desktop/NumToWord.Solution/NumToWord/bin/Debug/netcoreapp1.1/NumToWord.dll
+/Users/Guest/Desktop/NumToWord.Solution/NumToWord/bin/Debug/netcoreapp1.1/NumToWord.pdb
+/Users/Guest/Desktop/NumToWord.Solution/NumToWord/obj/Debug/netcoreapp1.1/NumToWord.dll
+/Users/Guest/Desktop/NumToWord.Solution/NumToWord/obj/Debug/netcoreapp1.1/NumToWord.pdb
